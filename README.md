@@ -16,3 +16,14 @@ Insira um cabeçalho <h1> com o texto "Sobre Mim".
 Adicione uma imagem de sua escolha (use um link da internet ou coloque a imagem na mesma pasta).
 Insira uma lista não ordenada com 3 hobbies ou atividades que você gosta.
 Adicione um link para uma página ou rede social que você usa.
+
+
+comandos git
+
+git status - verifica o status local em comparacao com remoto
+git add . - adiciona todas as alteracoes
+git commit -m "mensagem da alteracao"
+git push
+ou
+git push origin main
+ou git push origin <nomedabranch>
